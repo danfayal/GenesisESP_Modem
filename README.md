@@ -6,9 +6,12 @@ GenesisESP Modem is a project that enables our Mega Drive/Sega Genesis to receiv
 
 - An ESP32 board or similar board that has internet connection and can use the Arduino IDE;
 - A Mega Drive/Sega Genesis with cartridge slot or SD card slot and with two controller ports;
+- You need a intermediate to advanced knowledge in C and C++, regarding the use of SGDK and programming ESP32 boards;
 - A reprogrammable Mega Drive/Sega Genesis cartridge (to insert the ROM) or an Everdrive (much simpler, of course).
 
-I will leave the compiled ROM available for download here. To test the project, put the ROM on your Everdrive, make the connections of the ESP32 with the game console, and then just wait.
+I will not teach how to compile a ROM using SGDK. I suggest going to the SGDK repository or searching for several videos that teach how to compile a ROM.
+
+I will leave the compiled ROM available for download here. To test the project, put the ROM on your Everdrive, make the connections of the ESP32 with the game console, and then just wait to see the messages.
 
 # DOES IT WORK ON EMULATORS?
 
