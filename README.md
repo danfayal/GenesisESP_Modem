@@ -44,6 +44,7 @@ Any questions, please contact me.
 # SPECIAL THANKS:
 
 Special thanks to Sir Stephane Dallongeville, you are brilliant and have revived Sega!
+
 Special thanks to Sir Robert Hargreaves, without your intelligence and creativity, this project would not have been possible.
 
 
