@@ -2,6 +2,10 @@
 
 GenesisESP Modem is a project that enables our Mega Drive/Sega Genesis to receive data from the internet using an ESP32 board with WiFi. We load a specific firmware onto the ESP32 and then connect the ESP32 board to some of the pins of the controller port number 2 of our Mega Drive/Sega Genesis. We need a specific ROM that reads the data coming from the Internet, and then these data will be displayed on the screen. In the example I have here, the messages come from "https:\\time.is" website. So, if you see the real time in New York City on your screen, congratulations! the project is working! if you don't see anything, your game console is fried. Just kidding! I mean, bizarre coincidences happen, but if you don't see anything, redo the entire project.
 
+
+# DEMONSTRATION:
+https://youtu.be/1nJYXypBe8o
+
 # WHAT DO YOU NEED TO BUILD THIS PROJECT?
 
 - An ESP32 board or similar board that has internet connection and can use the Arduino IDE;
@@ -23,7 +27,10 @@ Looking directly at plug (Female 9-pin Type D)
 I took this plug connection image from Sir Robert Hargreaves' repository.
 
 And here, the connection between ESP32 and Mega Drive/Sega Genesis Controller Port 2
+
 ![image](https://github.com/danfayal/GenesisESP_Modem/assets/26822435/817bd9b4-9b8a-4243-9ef3-dc14d1df7ae6)
+
+
 
 
 # DOES IT WORK ON EMULATORS?
