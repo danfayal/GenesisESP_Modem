@@ -19,7 +19,8 @@ I will leave the compiled ROM available for download here. To test the project, 
 
 # CONNECTIONS BETWEEN ESP32 AND MEGA DRIVE/SEGA GENESIS.
 
-I took this plug connection image from Sir Robert Hargreaves' repository.
+
+I took this plug connection schematic from rhargreaves repository.
 
   -------------
   \ 5 4 3 2 1 /
