@@ -1,6 +1,6 @@
 # GenesisESP_Modem version 1.0
 
-GenesisESP Modem is a project that enables our Mega Drive/Sega Genesis to receive data from the internet using an ESP32 board with WiFi. We load a specific firmware onto the ESP32 and then connect the ESP32 board to some of the pins of the controller port number 2 of our Mega Drive/Sega Genesis. We need a specific ROM that reads the data coming from the Internet, and then these data will be displayed on the screen. In the example I have here, the messages come from "https:\\time.is" website. So, if you see the real time in New York City on your screen, congratulations! the project is working! if you don't see anything, your game console is fried. Just kidding! I mean, bizarre coincidences happen, but if you don't see anything, redo the entire project.
+GenesisESP Modem is a project that enables our Mega Drive/Sega Genesis to receive data from the internet using an ESP32 board with WiFi. We load a specific firmware onto the ESP32 and then connect the ESP32 board to some pins of the controller port number 2. We need a specific ROM that reads the data coming from the Internet, and then these data will be displayed on the screen. In the example I have here, the messages come from "https:\\time.is" website. So, if you see the real time in New York City on your screen, congratulations! the project is working! if you don't see anything, your game console is fried. Just kidding! I mean, bizarre coincidences happen, but if you don't see anything, redo the entire project.
 
 
 # DEMONSTRATION:
