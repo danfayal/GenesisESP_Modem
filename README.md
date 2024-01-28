@@ -17,17 +17,15 @@ I will not teach how to compile a ROM using SGDK. I suggest going to the SGDK re
 
 I will leave the compiled ROM available for download here. To test the project, upload the ESP32 sketch to your board and put the example ROM on your Everdrive, make the connections of the ESP32 with the game console, and then just wait to see the messages.
 
-# CONNECTIONS BETWEEN ESP32 AND MEGA DRIVE/SEGA GENESIS
--------------
-\ 5 4 3 2 1 /
- \ 9 8 7 6 /
-  ---------
+# CONNECTIONS BETWEEN ESP32 AND MEGA DRIVE/SEGA GENESIS.
 
-
-
-  
 I took this plug connection image from Sir Robert Hargreaves' repository.
 
+  -------------
+  \ 5 4 3 2 1 /
+   \ 9 8 7 6 /
+    ---------
+    
 And here, the connection between ESP32 and Mega Drive/Sega Genesis Controller Port 2
 
 ![image](https://github.com/danfayal/GenesisESP_Modem/assets/26822435/817bd9b4-9b8a-4243-9ef3-dc14d1df7ae6)
