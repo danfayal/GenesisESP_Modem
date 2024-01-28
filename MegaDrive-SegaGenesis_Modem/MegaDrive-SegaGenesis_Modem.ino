@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char *ssid = "Sueli_2.4ghz";// "insert your ssid"
-const char *password = "16101939"; // "put your password ssid"
+const char *ssid = "your ssid";// "insert your ssid"
+const char *password = "your ssid password"; // "put your password ssid"
 const char *url = "https://time.is";
 const int intervaloAtualizacao = 5000;
 
