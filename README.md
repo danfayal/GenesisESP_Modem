@@ -20,8 +20,10 @@ Looking directly at plug (Female 9-pin Type D)
 \ 5 4 3 2 1 /
  \ 9 8 7 6 /
   ---------
-I took this plug connection image, from Sir Robert Hargreaves' repository.
+I took this plug connection image from Sir Robert Hargreaves' repository.
 
+And here, the connection between ESP32 and Mega Drive/Sega Genesis Controller Port 2
+![image](https://github.com/danfayal/GenesisESP_Modem/assets/26822435/817bd9b4-9b8a-4243-9ef3-dc14d1df7ae6)
 
 
 # DOES IT WORK ON EMULATORS?
@@ -42,15 +44,15 @@ Answer: Almost all versions. The portable Mega Drive/Sega Genesis version doesn'
 
 # WHAT CAN BE DONE WITH THIS PROJECT?
 
-Answer: Well, for the future, we can try to develop various things like: text games, a chat server, or even more complex things like maybe creating games that can be downloaded via the internet and stored in the console's SRAM. There are many possibilities. Besides, since the data arrives via serial port, you can necessarily do a series of things using boards like Arduino or others, just by writing a specific ROM.
-
-The connection pinout of the ESP32 with the Mega Drive/Sega Genesis is in the connection diagram folder of this directory.
+Answer: Well, for the future, we can try to develop various things like: text games, a chat server, with free APIs, maybe you can get messages from your social networks, or maybe we can do even more complex things like creating games that can be downloaded via the internet and stored in the console's SRAM. There are many possibilities. Besides, since the data arrives via serial port, you also can do a series of other things using boards like Arduino or others, just by writing a specific ROM using the SGDK and Serial Port library.
 
 Any questions, please contact me.
 
 # SGDK download: [https://github.com/Stephane-D/SGDK](https://github.com/Stephane-D/SGDK)
 
 # Mega Drive Serial Port download: [https://github.com/rhargreaves/mega-drive-serial-port](https://github.com/rhargreaves/mega-drive-serial-port)
+
+# EVERDRIVE: https://krikzz.com/
 
 # SPECIAL THANKS:
 
