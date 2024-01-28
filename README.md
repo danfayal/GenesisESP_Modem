@@ -1,6 +1,6 @@
 # GenesisESP_Modem version 1.0
 
-GenesisESP Modem is a project that enables our Mega Drive/Sega Genesis to receive data from the internet using an ESP32 board with WiFi. We load a specific firmware onto the ESP32 and then connect the ESP32 board to some of the pins of the controller port number 2 of our Mega Drive/Sega Genesis. We need a specific ROM that reads the data coming from the Internet, and then these data will be displayed on the screen. In the example I have here, the messages come from a simple page that I hosted on Github. So, if you see some random messages about Sega on your screen, congratulations! The project is working! If you don't see anything, your game console is fried. Just kidding! I mean, bizarre coincidences happen, but if you don't see anything, redo the entire project calmly.
+GenesisESP Modem is a project that enables our Mega Drive/Sega Genesis to receive data from the internet using an ESP32 board with WiFi. We load a specific firmware onto the ESP32 and then connect the ESP32 board to some of the pins of the controller port number 2 of our Mega Drive/Sega Genesis. We need a specific ROM that reads the data coming from the Internet, and then these data will be displayed on the screen. In the example I have here, the messages come from "https:\\time.is" website. So, if you see the real time in New York City on your screen, congratulations! the project is working! if you don't see anything, your game console is fried. Just kidding! I mean, bizarre coincidences happen, but if you don't see anything, redo the entire project.
 
 # WHAT DO YOU NEED TO BUILD THIS PROJECT?
 
@@ -11,7 +11,7 @@ GenesisESP Modem is a project that enables our Mega Drive/Sega Genesis to receiv
 
 I will not teach how to compile a ROM using SGDK. I suggest going to the SGDK repository or searching for several videos that teach how to compile a ROM.
 
-I will leave the compiled ROM available for download here. To test the project, put the ROM on your Everdrive, make the connections of the ESP32 with the game console, and then just wait to see the messages.
+I will leave the compiled ROM available for download here. To test the project, upload the ESP32 sketch to your board and put the example ROM on your Everdrive, make the connections of the ESP32 with the game console, and then just wait to see the messages.
 
 # DOES IT WORK ON EMULATORS?
 
