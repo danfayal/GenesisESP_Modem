@@ -13,6 +13,17 @@ I will not teach how to compile a ROM using SGDK. I suggest going to the SGDK re
 
 I will leave the compiled ROM available for download here. To test the project, upload the ESP32 sketch to your board and put the example ROM on your Everdrive, make the connections of the ESP32 with the game console, and then just wait to see the messages.
 
+# CONNECTIONS BETWEEN ESP32 AND MEGA DRIVE/SEGA GENESIS
+
+Looking directly at plug (Female 9-pin Type D)
+-------------
+\ 5 4 3 2 1 /
+ \ 9 8 7 6 /
+  ---------
+I took this plug connection image, from Sir Robert Hargreaves' repository.
+
+
+
 # DOES IT WORK ON EMULATORS?
 
 Answer: It depends... I would only say "yes" if you know how to reverse engineer to alter the joystick controller inside the emulator... well... good luck! But the more decent answer is: no! It doesn't work on emulators.
