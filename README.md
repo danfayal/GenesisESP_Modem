@@ -19,19 +19,14 @@ I will leave the compiled ROM available for download here. To test the project, 
 
 # CONNECTIONS BETWEEN ESP32 AND MEGA DRIVE/SEGA GENESIS.
 
-
 I took this plug connection schematic from rhargreaves repository.
 
-  -------------
-  \ 5 4 3 2 1 /
-   \ 9 8 7 6 /
-    ---------
+![image](https://github.com/danfayal/GenesisESP_Modem/assets/26822435/b891f178-0813-4114-a8da-30b41544dbb9)
+
     
 And here, the connection between ESP32 and Mega Drive/Sega Genesis Controller Port 2
 
 ![image](https://github.com/danfayal/GenesisESP_Modem/assets/26822435/817bd9b4-9b8a-4243-9ef3-dc14d1df7ae6)
-
-
 
 
 # DOES IT WORK ON EMULATORS?
