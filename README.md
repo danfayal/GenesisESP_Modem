@@ -20,10 +20,15 @@ I will leave the compiled ROM available for download here. To test the project, 
 # CONNECTIONS BETWEEN ESP32 AND MEGA DRIVE/SEGA GENESIS
 
 Looking directly at plug (Female 9-pin Type D)
+
 -------------
 \ 5 4 3 2 1 /
  \ 9 8 7 6 /
   ---------
+
+
+
+  
 I took this plug connection image from Sir Robert Hargreaves' repository.
 
 And here, the connection between ESP32 and Mega Drive/Sega Genesis Controller Port 2
