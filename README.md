@@ -51,7 +51,7 @@ Answer: Almost all versions. The portable Mega Drive/Sega Genesis version doesn'
 
 # WHAT CAN BE DONE WITH THIS PROJECT?
 
-Answer: Well, for the future, we can try to develop various things like: text games, a chat server, with free APIs, maybe you can get messages from your social networks, or maybe we can do even more complex things like creating games that can be downloaded via the internet and stored in the console's SRAM. There are many possibilities. Besides, since the data arrives via serial port, you also can do a series of other things using boards like Arduino or others, just by writing a specific ROM using the SGDK and Serial Port library.
+Answer: Well, for the future, we can try to develop various things like: text games, a chat server, with free APIs, maybe you can get messages from your social networks, or maybe we can do even more complex things like creating games that can be downloaded via the internet and stored in the console's SRAM. There are many possibilities. Besides, since the data arrives via serial port, you can also do a series of other things using boards like Arduino or others, just by writing a specific ROM using the SGDK and Serial Port library.
 
 Any questions, please contact me.
 
